@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Nejib Taallah
 
 💻 Senior PHP / Laravel Developer (10+ years of experience)  
-🚀 Building scalable web applications & SaaS platforms  
+🚀 Building scalable web applications, CMS & SaaS platforms  
 🌍 Based in Tunisia  
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on web applications using Laravel & Vue.js  
-- 🌱 Currently learning advanced architecture, Docker & testing  
+- 🔭 Currently working on Laravel & Vue.js applications  
+- 🌱 Learning advanced architecture, Docker & testing  
 - 💡 Passionate about clean code, performance & scalable systems  
-- ⚡ I love building CMS, E-commerce, and SaaS platforms  
+- ⚡ I enjoy building CMS, e-commerce & SaaS solutions  
 
 ---
 
