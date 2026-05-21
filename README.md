@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Nejib Taallah 👋
 
-<!--
-**gnw-nejib-taallah/gnw-nejib-taallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PHP / Laravel Developer with 10+ years of experience in web application development.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- Laravel
+- MySQL
+- JavaScript
+- Vue.js
+- REST APIs
+- AWS
+- Docker
+- Git
+
+## Professional Experience
+
+I have worked on:
+- E-learning platforms
+- E-commerce systems
+- CMS platforms
+- Web scraping systems
+- SaaS applications
+
+## Currently Learning
+
+- Advanced Laravel Architecture
+- Vue.js
+- Docker
+- Testing
+
+## Contact
+
+📧 taallah.nejib89@gmail.com
