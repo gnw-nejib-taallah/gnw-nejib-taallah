@@ -43,20 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnw-nejib-taallah&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnw-nejib-taallah&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gnw-nejib-taallah&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 📧 Email: taallah.nejib89@gmail.com  
